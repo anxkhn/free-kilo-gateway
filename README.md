@@ -23,7 +23,7 @@
 Paste this into any LLM agent (Claude Code, OpenCode, Cursor, etc.):
 
 ```
-Clone https://github.com/your-username/free-kilo-gateway.git, run node patch.js to add free Kilo Gateway models to ~/.config/opencode/opencode.json, and follow the usage examples in README.md
+Clone https://github.com/anxkhn/free-kilo-gateway.git, run node patch.js to add free Kilo Gateway models to ~/.config/opencode/opencode.json, and follow the usage examples in README.md
 ```
 
 **Option B: Manual setup**
@@ -31,7 +31,7 @@ Clone https://github.com/your-username/free-kilo-gateway.git, run node patch.js 
 1. **Clone this repository**
 
 ```bash
-git clone https://github.com/your-username/free-kilo-gateway.git
+git clone https://github.com/anxkhn/free-kilo-gateway.git
 cd free-kilo-gateway
 ```
 
