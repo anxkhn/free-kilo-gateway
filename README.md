@@ -67,9 +67,9 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 
 | Model | Context | Output | Features |
 |-------|---------|--------|----------|
+| **Kilo: Auto Free** | 204K | 131K | Text only |
 | **MiniMax: MiniMax M2.5 (free)** | 204K | 131K | Text only |
-| **Z.ai: GLM 5 (free)** | 202K | 131K | Text only |
-| **Giga Potato (free)** | 256K | 32K | Vision support |
+| **MoonshotAI: Kimi K2.5 (free)** | 262K | 65K | Vision support |
 | **Giga Potato Thinking (free)** | 256K | 32K | Vision support |
 | **Arcee AI: Trinity Large Preview (free)** | 131K | - | Text only |
 | **Free Models Router (free)** | 200K | - | Vision support |
@@ -78,7 +78,8 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **Qwen: Qwen3 VL 235B A22B Thinking** | 131K | 32K | Vision support |
 | **Qwen: Qwen3 235B A22B Thinking 2507** | 131K | - | Text only |
 | **CoreThink (free)** | 78K | 8K | Text only |
-*Last updated: February 23, 2026*
+| **Giga Potato (free)** | 256K | 32K | Vision support |
+*Last updated: February 28, 2026*
 ---
 
 ## Updating Models
