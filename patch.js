@@ -12,7 +12,7 @@
  * 
  * What it does:
  *   1. Fetches latest model list from Kilo Gateway API
- *   2. Filters for free models (pricing = 0)
+ *   2. Filters for free models (pricing = 0 AND name contains "free")
  *   3. Updates ~/.config/opencode/opencode.json with Kilo Gateway provider
  *   4. Preserves all existing configuration
  * 
@@ -57,7 +57,10 @@ function isFree(pricing) {
 function filterFreeModels(models) {
   return models.filter(model => {
     const pricing = model.pricing || {};
-    return isFree(pricing);
+    const hasFreePricing = isFree(pricing);
+    const name = model.name || model.id || '';
+    const hasFreeInName = name.toLowerCase().includes('free');
+    return hasFreePricing && hasFreeInName;
   });
 }
 

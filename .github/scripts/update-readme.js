@@ -34,7 +34,10 @@ function isFree(pricing) {
 function filterFreeModels(models) {
   return models.filter(model => {
     const pricing = model.pricing || {};
-    return isFree(pricing);
+    const hasFreePricing = isFree(pricing);
+    const name = model.name || model.id || '';
+    const hasFreeInName = name.toLowerCase().includes('free');
+    return hasFreePricing && hasFreeInName;
   });
 }
 
