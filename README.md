@@ -42,10 +42,25 @@ node patch.js
 ```
 
 This will:
-- Fetch the latest free models from Kilo Gateway API
+- Fetch latest free models from Kilo Gateway API
 - Update `~/.config/opencode/opencode.json` with Kilo Gateway provider
 - Add all available free models
+- Automatically test each model and remove any that don't work
 - Preserve all your existing configuration
+
+### Health Checks
+
+The patcher automatically tests each model after adding it to ensure it works:
+
+- **Validation**: Each model is tested with a simple query ("what is 2+2")
+- **Automatic Removal**: Models that fail validation (no response, wrong answer, or errors) are removed from the config
+- **Login Handling**: Models requiring authentication you don't have will be caught and removed
+
+**Skip health checks** if needed:
+
+```bash
+SKIP_HEALTHCHECK=1 node patch.js
+```
 
 ---
 
@@ -128,6 +143,25 @@ You should see the kilogateway provider configuration.
 ### Can't see all free models
 
 Some models may be temporarily unavailable. Run `node patch.js` again to get the latest list.
+
+### Health check failures
+
+If a model fails health checks, it is automatically removed. This is expected behavior for models that:
+- Require authentication you don't have
+- Are temporarily unavailable
+- Have pricing changes that make them non-free
+
+Check the console output during patching to see which models were tested and removed.
+
+### Skip health checks
+
+If you want to disable model validation:
+
+```bash
+SKIP_HEALTHCHECK=1 node patch.js
+```
+
+This will add all free models without testing them first.
 
 ---
 
