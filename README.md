@@ -89,12 +89,9 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **Arcee AI: Trinity Large Preview (free)** | 131K | - | Text only |
 | **Free Models Router (free)** | 200K | - | Vision support |
 | **StepFun: Step 3.5 Flash (free)** | 256K | 256K | Text only |
-| **Qwen: Qwen3 VL 30B A3B Thinking** | 131K | 32K | Vision support |
-| **Qwen: Qwen3 VL 235B A22B Thinking** | 131K | 32K | Vision support |
-| **Qwen: Qwen3 235B A22B Thinking 2507** | 131K | - | Text only |
 | **CoreThink (free)** | 78K | 8K | Text only |
 | **Giga Potato (free)** | 256K | 32K | Vision support |
-*Last updated: February 28, 2026*
+*Last updated: March 1, 2026*
 ---
 
 ## Updating Models
