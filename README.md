@@ -84,14 +84,13 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 |-------|---------|--------|----------|
 | **Kilo: Auto Free** | 204K | 131K | Text only |
 | **MiniMax: MiniMax M2.5 (free)** | 204K | 131K | Text only |
-| **MoonshotAI: Kimi K2.5 (free)** | 262K | 65K | Vision support |
 | **Giga Potato Thinking (free)** | 256K | 32K | Vision support |
 | **Arcee AI: Trinity Large Preview (free)** | 131K | - | Text only |
 | **Free Models Router (free)** | 200K | - | Vision support |
 | **StepFun: Step 3.5 Flash (free)** | 256K | 256K | Text only |
 | **CoreThink (free)** | 78K | 8K | Text only |
 | **Giga Potato (free)** | 256K | 32K | Vision support |
-*Last updated: March 5, 2026*
+*Last updated: March 6, 2026*
 ---
 
 ## Updating Models
