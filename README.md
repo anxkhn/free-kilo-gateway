@@ -82,7 +82,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 
 | Model | Context | Output | Features |
 |-------|---------|--------|----------|
-| **Kilo Auto: Free** | 204K | 131K | Text only |
+| **Kilo Auto Free** | 204K | 131K | Text only |
 | **MiniMax: MiniMax M2.5 (free)** | 204K | 131K | Text only |
 | **Giga Potato Thinking (free)** | 256K | 32K | Vision support |
 | **Arcee AI: Trinity Large Preview (free)** | 131K | - | Text only |
@@ -90,8 +90,8 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **StepFun: Step 3.5 Flash (free)** | 256K | 256K | Text only |
 | **CoreThink (free)** | 78K | 8K | Text only |
 | **Giga Potato (free)** | 256K | 32K | Vision support |
-| **Deprecated: Kilo Auto: Free** | 204K | 131K | Text only |
-*Last updated: March 9, 2026*
+| **Deprecated: Kilo Auto Free** | 204K | 131K | Text only |
+*Last updated: March 10, 2026*
 ---
 
 ## Updating Models
