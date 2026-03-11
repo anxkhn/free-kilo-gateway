@@ -90,8 +90,9 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **StepFun: Step 3.5 Flash (free)** | 256K | 256K | Text only |
 | **CoreThink (free)** | 78K | 8K | Text only |
 | **Giga Potato (free)** | 256K | 32K | Vision support |
+| **xAI: Grok Code Fast 1 Optimized (experimental, free)** | 256K | 10K | Text only |
 | **Deprecated: Kilo Auto Free** | 204K | 131K | Text only |
-*Last updated: March 10, 2026*
+*Last updated: March 11, 2026*
 ---
 
 ## Updating Models
