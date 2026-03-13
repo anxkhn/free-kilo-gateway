@@ -92,8 +92,8 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **CoreThink (free)** | 78K | 8K | Text only |
 | **Giga Potato (free)** | 256K | 32K | Vision support |
 | **xAI: Grok Code Fast 1 Optimized (experimental, free)** | 256K | 10K | Text only |
-| **Deprecated: Kilo Auto Free** | 204K | 131K | Text only |
-*Last updated: March 12, 2026*
+| **Deprecated Kilo Auto Free** | 204K | 131K | Text only |
+*Last updated: March 13, 2026*
 ---
 
 ## Updating Models
