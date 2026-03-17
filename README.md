@@ -93,7 +93,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **Giga Potato (free)** | 256K | 32K | Vision support |
 | **xAI: Grok Code Fast 1 Optimized (experimental, free)** | 256K | 10K | Text only |
 | **Deprecated Kilo Auto Free** | 204K | 131K | Text only |
-*Last updated: March 16, 2026*
+*Last updated: March 17, 2026*
 ---
 
 ## Updating Models
