@@ -84,16 +84,16 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 |-------|---------|--------|----------|
 | **Kilo Auto Free** | 204K | 131K | Text only |
 | **NVIDIA: Nemotron 3 Super (free)** | 262K | 262K | Text only |
-| **MiniMax: MiniMax M2.5 (free)** | 204K | 131K | Text only |
 | **Giga Potato Thinking (free)** | 256K | 32K | Vision support |
 | **Arcee AI: Trinity Large Preview (free)** | 131K | - | Text only |
 | **Free Models Router** | 200K | - | Vision support |
 | **StepFun: Step 3.5 Flash (free)** | 256K | 256K | Text only |
 | **CoreThink (free)** | 78K | 8K | Text only |
 | **Giga Potato (free)** | 256K | 32K | Vision support |
+| **MiniMax: MiniMax M2.5 (free)** | 204K | 131K | Text only |
 | **xAI: Grok Code Fast 1 Optimized (experimental, free)** | 256K | 10K | Text only |
 | **Deprecated Kilo Auto Free** | 204K | 131K | Text only |
-*Last updated: March 17, 2026*
+*Last updated: March 18, 2026*
 ---
 
 ## Updating Models
