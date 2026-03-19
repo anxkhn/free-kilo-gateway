@@ -93,7 +93,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **MiniMax: MiniMax M2.5 (free)** | 204K | 131K | Text only |
 | **xAI: Grok Code Fast 1 Optimized (experimental, free)** | 256K | 10K | Text only |
 | **Deprecated Kilo Auto Free** | 204K | 131K | Text only |
-*Last updated: March 18, 2026*
+*Last updated: March 19, 2026*
 ---
 
 ## Updating Models
