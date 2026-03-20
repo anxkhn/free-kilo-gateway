@@ -83,6 +83,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | Model | Context | Output | Features |
 |-------|---------|--------|----------|
 | **Kilo Auto Free** | 204K | 131K | Text only |
+| **Xiaomi: MiMo-V2-Pro (free)** | 1048K | 131K | Vision support |
 | **NVIDIA: Nemotron 3 Super (free)** | 262K | 262K | Text only |
 | **Giga Potato Thinking (free)** | 256K | 32K | Vision support |
 | **Arcee AI: Trinity Large Preview (free)** | 131K | - | Text only |
@@ -91,9 +92,10 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **CoreThink (free)** | 78K | 8K | Text only |
 | **Giga Potato (free)** | 256K | 32K | Vision support |
 | **MiniMax: MiniMax M2.5 (free)** | 204K | 131K | Text only |
+| **Xiaomi: MiMo-V2-Omni (free)** | 262K | 65K | Vision support |
 | **xAI: Grok Code Fast 1 Optimized (experimental, free)** | 256K | 10K | Text only |
 | **Deprecated Kilo Auto Free** | 204K | 131K | Text only |
-*Last updated: March 19, 2026*
+*Last updated: March 20, 2026*
 ---
 
 ## Updating Models
