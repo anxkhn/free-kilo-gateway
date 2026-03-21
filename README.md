@@ -95,7 +95,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **Xiaomi: MiMo-V2-Omni (free)** | 262K | 65K | Vision support |
 | **xAI: Grok Code Fast 1 Optimized (experimental, free)** | 256K | 10K | Text only |
 | **Deprecated Kilo Auto Free** | 204K | 131K | Text only |
-*Last updated: March 20, 2026*
+*Last updated: March 21, 2026*
 ---
 
 ## Updating Models
