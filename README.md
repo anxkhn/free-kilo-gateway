@@ -85,15 +85,15 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **Kilo Auto Free** | 1048K | 131K | Text only |
 | **Xiaomi: MiMo-V2-Pro (free)** | 1048K | 131K | Vision support |
 | **NVIDIA: Nemotron 3 Super (free)** | 262K | 262K | Text only |
-| **Arcee AI: Trinity Large Preview (free)** | 131K | - | Text only |
-| **xAI: Grok Code Fast 1 Optimized (free)** | 256K | 10K | Text only |
 | **Qwen: Qwen3.6 Plus Preview (free)** | 1000K | 32K | Text only |
+| **xAI: Grok Code Fast 1 Optimized (free)** | 256K | 10K | Text only |
 | **Free Models Router** | 200K | - | Vision support |
 | **StepFun: Step 3.5 Flash (free)** | 256K | 256K | Text only |
+| **Arcee AI: Trinity Large Preview (free)** | 131K | - | Text only |
 | **CoreThink (free)** | 78K | 8K | Text only |
 | **MiniMax: MiniMax M2.5 (free)** | 204K | 131K | Text only |
 | **Xiaomi: MiMo-V2-Omni (free)** | 262K | 65K | Vision support |
-*Last updated: April 1, 2026*
+*Last updated: April 2, 2026*
 ---
 
 ## Updating Models
