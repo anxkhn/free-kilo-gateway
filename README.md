@@ -85,13 +85,14 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **Kilo Auto Free** | 204K | 131K | Text only |
 | **ByteDance Seed: Dola Seed 2.0 Pro (free)** | 256K | 128K | Vision support |
 | **xAI: Grok Code Fast 1 Optimized (free)** | 256K | 10K | Text only |
-| **Qwen: Qwen3.6 Plus (free)** | 1000K | 65K | Vision support |
+| **Google: Gemma 4 26B A4B  (free)** | 262K | 32K | Vision support |
+| **Google: Gemma 4 31B (free)** | 262K | 32K | Vision support |
 | **NVIDIA: Nemotron 3 Super (free)** | 262K | 262K | Text only |
 | **Free Models Router** | 200K | - | Vision support |
 | **StepFun: Step 3.5 Flash (free)** | 256K | 256K | Text only |
 | **CoreThink (free)** | 78K | 8K | Text only |
 | **Arcee AI: Trinity Large Thinking (free)** | 262K | 262K | Text only |
-*Last updated: April 7, 2026*
+*Last updated: April 8, 2026*
 ---
 
 ## Updating Models
