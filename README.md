@@ -87,9 +87,8 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **xAI: Grok Code Fast 1 Optimized (free)** | 256K | 10K | Text only |
 | **NVIDIA: Nemotron 3 Super (free)** | 262K | 262K | Text only |
 | **Free Models Router** | 200K | - | Vision support |
-| **CoreThink (free)** | 78K | 8K | Text only |
 | **Arcee AI: Trinity Large Thinking (free)** | 262K | 262K | Text only |
-*Last updated: April 9, 2026*
+*Last updated: April 10, 2026*
 ---
 
 ## Updating Models
