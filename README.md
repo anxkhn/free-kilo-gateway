@@ -88,7 +88,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **NVIDIA: Nemotron 3 Super (free)** | 262K | 262K | Text only |
 | **Free Models Router** | 200K | - | Vision support |
 | **Arcee AI: Trinity Large Thinking (free)** | 262K | 262K | Text only |
-*Last updated: April 13, 2026*
+*Last updated: April 14, 2026*
 ---
 
 ## Updating Models
