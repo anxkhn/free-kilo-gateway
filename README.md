@@ -83,13 +83,14 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | Model | Context | Output | Features |
 |-------|---------|--------|----------|
 | **Kilo Auto Free** | 204K | 131K | Text only |
-| **ByteDance Seed: Dola Seed 2.0 Pro (free)** | 256K | 128K | Vision support |
 | **xAI: Grok Code Fast 1 Optimized (free)** | 256K | 10K | Text only |
+| **StepFun: Step 3.5 Flash (free)** | 262K | 262K | Text only |
 | **NVIDIA: Nemotron 3 Super (free)** | 262K | 262K | Text only |
 | **Free Models Router** | 200K | - | Vision support |
+| **Meta: Llama Guard 4 12B (free)** | 163K | 65K | Vision support |
+| **ByteDance Seed: Dola Seed 2.0 Pro (free)** | 256K | 128K | Vision support |
 | **Arcee AI: Trinity Large Thinking (free)** | 262K | 262K | Text only |
-| **StepFun: Step 3.5 Flash (free)** | 262K | 262K | Text only |
-*Last updated: April 15, 2026*
+*Last updated: April 16, 2026*
 ---
 
 ## Updating Models
