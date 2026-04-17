@@ -90,7 +90,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **Meta: Llama Guard 4 12B (free)** | 163K | 65K | Vision support |
 | **ByteDance Seed: Dola Seed 2.0 Pro (free)** | 256K | 128K | Vision support |
 | **Arcee AI: Trinity Large Thinking (free)** | 262K | 262K | Text only |
-*Last updated: April 16, 2026*
+*Last updated: April 17, 2026*
 ---
 
 ## Updating Models
