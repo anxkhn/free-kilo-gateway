@@ -85,13 +85,13 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **Kilo Auto Free** | 256K | 10K | Text only |
 | **inclusionAI: Ling-2.6-1T (free)** | 262K | 32K | Text only |
 | **NVIDIA: Nemotron 3 Super (free)** | 262K | 262K | Text only |
-| **Tencent: Hy3 preview (free)** | 262K | 262K | Text only |
 | **xAI: Grok Code Fast 1 Optimized (free)** | 256K | 10K | Text only |
 | **StepFun: Step 3.5 Flash (free)** | 262K | 262K | Text only |
+| **Tencent: Hy3 preview (free)** | 262K | 262K | Text only |
 | **inclusionAI: Ling-2.6-flash (free)** | 262K | 32K | Text only |
 | **Baidu: Qianfan-OCR-Fast (free)** | 65K | 28K | Vision support |
 | **Free Models Router** | 200K | - | Vision support |
-*Last updated: April 24, 2026*
+*Last updated: April 25, 2026*
 ---
 
 ## Updating Models
