@@ -91,7 +91,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **inclusionAI: Ling-2.6-flash (free)** | 262K | 32K | Text only |
 | **Baidu: Qianfan-OCR-Fast (free)** | 65K | 28K | Vision support |
 | **Free Models Router** | 200K | - | Vision support |
-*Last updated: April 27, 2026*
+*Last updated: April 28, 2026*
 ---
 
 ## Updating Models
