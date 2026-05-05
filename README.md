@@ -93,7 +93,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **Tencent: Hy3 preview (free)** | 262K | 262K | Text only |
 | **Baidu: Qianfan-OCR-Fast (free)** | 65K | 28K | Vision support |
 | **Free Models Router** | 200K | - | Vision support |
-*Last updated: May 4, 2026*
+*Last updated: May 5, 2026*
 ---
 
 ## Updating Models
