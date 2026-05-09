@@ -85,15 +85,15 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **Auto Free** | 256K | 10K | Text only |
 | **NVIDIA: Nemotron 3 Super (free)** | 262K | 262K | Text only |
 | **Poolside: Laguna M.1 (free)** | 131K | 8K | Text only |
-| **xAI: Grok Code Fast 1 Optimized (free)** | 256K | 10K | Text only |
+| **inclusionAI: Ring-2.6-1T (free)** | 262K | 65K | Text only |
 | **StepFun: Step 3.5 Flash (free)** | 262K | 262K | Text only |
 | **Baidu Qianfan: CoBuddy (free)** | 131K | 65K | Text only |
 | **NVIDIA: Nemotron 3 Nano Omni (free)** | 256K | 65K | Vision support |
 | **Poolside: Laguna XS.2 (free)** | 131K | 8K | Text only |
-| **Tencent: Hy3 preview (free)** | 262K | 262K | Text only |
 | **Baidu: Qianfan-OCR-Fast (free)** | 65K | 28K | Vision support |
 | **Free Models Router** | 200K | - | Vision support |
-*Last updated: May 8, 2026*
+| **xAI: Grok Code Fast 1, retiring May 15 (free)** | 256K | 10K | Text only |
+*Last updated: May 9, 2026*
 ---
 
 ## Updating Models
