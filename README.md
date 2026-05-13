@@ -93,7 +93,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **Baidu: Qianfan-OCR-Fast (free)** | 65K | 28K | Vision support |
 | **Free Models Router** | 200K | - | Vision support |
 | **xAI: Grok Code Fast 1, retiring May 15 (free)** | 256K | 10K | Text only |
-*Last updated: May 12, 2026*
+*Last updated: May 13, 2026*
 ---
 
 ## Updating Models
