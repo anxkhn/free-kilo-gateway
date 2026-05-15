@@ -90,11 +90,10 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **Baidu Qianfan: CoBuddy (free)** | 131K | 65K | Text only |
 | **NVIDIA: Nemotron 3 Nano Omni (free)** | 256K | 65K | Vision support |
 | **Poolside: Laguna XS.2 (free)** | 131K | 8K | Text only |
-| **DeepSeek: DeepSeek V4 Flash (free)** | 256K | 256K | Text only |
-| **Baidu: Qianfan-OCR-Fast (free)** | 65K | 28K | Vision support |
+| **DeepSeek: DeepSeek V4 Flash (free)** | 1048K | 384K | Text only |
 | **Free Models Router** | 200K | - | Vision support |
 | **xAI: Grok Code Fast 1, retiring May 15 (free)** | 256K | 10K | Text only |
-*Last updated: May 14, 2026*
+*Last updated: May 15, 2026*
 ---
 
 ## Updating Models
