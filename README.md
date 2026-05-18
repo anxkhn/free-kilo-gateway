@@ -92,7 +92,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **DeepSeek: DeepSeek V4 Flash (free)** | 1048K | 384K | Text only |
 | **Free Models Router** | 200K | - | Vision support |
 | **xAI: Grok Code Fast 1, retiring May 15 (free)** | 256K | 10K | Text only |
-*Last updated: May 17, 2026*
+*Last updated: May 18, 2026*
 ---
 
 ## Updating Models
