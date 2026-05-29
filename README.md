@@ -89,7 +89,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **Poolside: Laguna XS.2 (free)** | 262K | 32K | Text only |
 | **MoonshotAI: Kimi K2.6 (free)** | 262K | - | Vision support |
 | **Free Models Router** | 200K | - | Vision support |
-*Last updated: May 28, 2026*
+*Last updated: May 29, 2026*
 ---
 
 ## Updating Models
