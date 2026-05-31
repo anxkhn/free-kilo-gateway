@@ -85,10 +85,11 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **Auto Free** | 256K | 10K | Text only |
 | **NVIDIA: Nemotron 3 Super (free)** | 1000K | 262K | Text only |
 | **Poolside: Laguna M.1 (free)** | 262K | 32K | Text only |
+| **StepFun: Step 3.7 Flash (free)** | 262K | 262K | Vision support |
 | **NVIDIA: Nemotron 3 Nano Omni (free)** | 256K | 65K | Vision support |
 | **Poolside: Laguna XS.2 (free)** | 262K | 32K | Text only |
 | **Free Models Router** | 200K | - | Vision support |
-*Last updated: May 30, 2026*
+*Last updated: May 31, 2026*
 ---
 
 ## Updating Models
