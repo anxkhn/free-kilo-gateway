@@ -89,7 +89,8 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **NVIDIA: Nemotron 3 Nano Omni (free)** | 256K | 65K | Vision support |
 | **Poolside: Laguna XS.2 (free)** | 262K | 32K | Text only |
 | **Free Models Router** | 200K | - | Vision support |
-*Last updated: June 3, 2026*
+| **Qwen: Qwen3.7 Plus (free)** | 1000K | 65K | Vision support |
+*Last updated: June 4, 2026*
 ---
 
 ## Updating Models
