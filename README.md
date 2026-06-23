@@ -84,7 +84,6 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 |-------|---------|--------|----------|
 | **Auto Free** | 256K | 10K | Text only |
 | **Poolside: Laguna M.1 (free)** | 262K | 32K | Text only |
-| **Nex AGI: Nex-N2-Pro (free)** | 262K | 256K | Vision support |
 | **StepFun: Step 3.7 Flash (free)** | 262K | 262K | Vision support |
 | **Cohere: North Mini Code (free)** | 256K | 64K | Text only |
 | **NVIDIA: Nemotron 3.5 Content Safety (free)** | 128K | 8K | Vision support |
@@ -93,7 +92,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **Poolside: Laguna XS.2 (free)** | 262K | 32K | Text only |
 | **NVIDIA: Nemotron 3 Super (free)** | 1000K | 262K | Text only |
 | **Free Models Router** | 200K | - | Vision support |
-*Last updated: June 22, 2026*
+*Last updated: June 23, 2026*
 ---
 
 ## Updating Models
