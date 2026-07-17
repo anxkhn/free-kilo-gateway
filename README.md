@@ -93,7 +93,8 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **Poolside: Laguna M.1 (free)** | 262K | 32K | Text only |
 | **NVIDIA: Nemotron 3 Super (free)** | 1000K | 262K | Text only |
 | **Free Models Router** | 200K | - | Vision support |
-*Last updated: July 16, 2026*
+| **Kwaipilot: KAT-Coder-Pro V2.5 (free)** | 256K | 80K | Text only |
+*Last updated: July 17, 2026*
 ---
 
 ## Updating Models
