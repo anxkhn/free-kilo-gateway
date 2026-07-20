@@ -94,7 +94,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **NVIDIA: Nemotron 3 Super (free)** | 1000K | 262K | Text only |
 | **Free Models Router** | 200K | - | Vision support |
 | **Kwaipilot: KAT-Coder-Pro V2.5 (free)** | 256K | 80K | Text only |
-*Last updated: July 19, 2026*
+*Last updated: July 20, 2026*
 ---
 
 ## Updating Models
