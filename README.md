@@ -86,6 +86,8 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **StepFun: Step 3.7 Flash (free)** | 262K | 262K | Vision support |
 | **Poolside: Laguna S 2.1 (free)** | 262K | 32K | Text only |
 | **Tencent: Hy3 (free)** | 262K | 128K | Text only |
+| **LiquidAI: LFM2.5-2.6B (free)** | 128K | 32K | Text only |
+| **NVIDIA: Nemotron 3.5 Lightning (free)** | 1000K | 65K | Text only |
 | **inclusionAI: Ling 3.0 Tiny (free)** | 262K | 32K | Text only |
 | **Poolside: Laguna XS 2.1 (free)** | 262K | 32K | Text only |
 | **Cohere: North Mini Code (free)** | 256K | 64K | Text only |
@@ -94,7 +96,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **NVIDIA: Nemotron 3 Nano Omni (free)** | 256K | 65K | Vision support |
 | **NVIDIA: Nemotron 3 Super (free)** | 262K | 262K | Text only |
 | **OpenRouter Free Models Router** | 200K | - | Vision support |
-*Last updated: August 11, 2026*
+*Last updated: August 12, 2026*
 ---
 
 ## Updating Models
