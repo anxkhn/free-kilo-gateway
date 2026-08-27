@@ -101,7 +101,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **MiniMax: MiniMax M2.7 (free)** | 196K | 176K | Text only |
 | **NVIDIA: Nemotron 3 Super (free)** | 262K | 235K | Text only |
 | **OpenRouter Free Models Router** | 200K | - | Vision support |
-*Last updated: August 26, 2026*
+*Last updated: August 27, 2026*
 ---
 
 ## Updating Models
