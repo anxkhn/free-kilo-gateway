@@ -87,6 +87,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **Tencent: Hy3 (free)** | 262K | 128K | Text only |
 | **Poolside: Laguna S 2.1 (free)** | 262K | 32K | Text only |
 | **Meituan: LongCat 2.0 (free)** | 1048K | 131K | Text only |
+| **Ling 3.0 Flash Fin (free)** | 262K | 32K | Text only |
 | **Dots Studio: Dots3-Note Preview (free)** | 512K | 460K | Vision support |
 | **LiquidAI: LFM2.5-2.6B (free)** | 65K | 8K | Text only |
 | **NVIDIA: Nemotron 3.5 Lightning (free)** | 1000K | 65K | Text only |
@@ -96,12 +97,12 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **Cohere: North Mini Code (free)** | 256K | 64K | Text only |
 | **NVIDIA: Nemotron 3.5 Content Safety (free)** | 128K | 8K | Vision support |
 | **NVIDIA: Nemotron 3 Ultra (free)** | 1000K | 65K | Text only |
-| **MiniMax: MiniMax M3 (free)** | 1048K | 943K | Vision support |
 | **NVIDIA: Nemotron 3 Nano Omni (free)** | 256K | 65K | Vision support |
-| **MiniMax: MiniMax M2.7 (free)** | 196K | 176K | Text only |
 | **NVIDIA: Nemotron 3 Super (free)** | 262K | 235K | Text only |
 | **OpenRouter Free Models Router** | 200K | - | Vision support |
-*Last updated: August 27, 2026*
+| **MiniMax: MiniMax M3 (free)** | 1048K | 1048K | Vision support |
+| **MiniMax: MiniMax M2.7 (free)** | 196K | 196K | Text only |
+*Last updated: August 28, 2026*
 ---
 
 ## Updating Models
