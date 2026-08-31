@@ -102,7 +102,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **OpenRouter Free Models Router** | 200K | - | Vision support |
 | **MiniMax: MiniMax M3 (free)** | 1048K | 1048K | Vision support |
 | **MiniMax: MiniMax M2.7 (free)** | 196K | 196K | Text only |
-*Last updated: August 30, 2026*
+*Last updated: August 31, 2026*
 ---
 
 ## Updating Models
