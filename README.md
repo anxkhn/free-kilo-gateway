@@ -88,6 +88,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **NVIDIA: Nemotron 3 Ultra (free)** | 1000K | 65K | Text only |
 | **Dots Studio: Dots3-Note Preview (free)** | 512K | 460K | Vision support |
 | **Nex AGI: Nex-N2.5-Pro (free)** | 262K | 235K | Vision support |
+| **inclusionAI: Ling 3.0 Flash VL (free)** | 262K | 32K | Vision support |
 | **Nex AGI: Nex-N2.5-Mini (free)** | 262K | 235K | Vision support |
 | **inclusionAI: Ling 3.0 Flash Sante (free)** | 262K | 32K | Text only |
 | **inclusionAI: Ling 3.0 Flash Fin (free)** | 262K | 32K | Text only |
@@ -101,7 +102,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **NVIDIA: Nemotron 3 Nano Omni (free)** | 256K | 65K | Vision support |
 | **NVIDIA: Nemotron 3 Super (free)** | 262K | 235K | Text only |
 | **OpenRouter Free Models Router** | 200K | - | Vision support |
-*Last updated: September 10, 2026*
+*Last updated: September 11, 2026*
 ---
 
 ## Updating Models
