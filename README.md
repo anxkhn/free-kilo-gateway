@@ -96,12 +96,13 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **Thinking Machines: Inkling Small (free)** | 1048K | 262K | Vision support |
 | **Poolside: Laguna XS 2.1 (free)** | 262K | 32K | Text only |
 | **Cohere: North Mini Code (free)** | 256K | 64K | Text only |
+| **Z.ai: GLM 5.2 (free)** | 32K | 29K | Text only |
 | **NVIDIA: Nemotron 3.5 Content Safety (free)** | 128K | 8K | Vision support |
 | **NVIDIA: Nemotron 3 Nano Omni (free)** | 256K | 65K | Vision support |
 | **NVIDIA: Nemotron 3 Super (free)** | 262K | 235K | Text only |
 | **OpenRouter Free Models Router** | 200K | - | Vision support |
 | **StepFun: Step 3.7 Flash (free)** | 262K | 262K | Vision support |
-*Last updated: September 15, 2026*
+*Last updated: September 16, 2026*
 ---
 
 ## Updating Models
