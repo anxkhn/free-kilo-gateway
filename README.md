@@ -97,7 +97,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **NVIDIA: Nemotron 3 Super (free)** | 262K | 235K | Text only |
 | **OpenRouter Free Models Router** | 200K | - | Vision support |
 | **StepFun: Step 5 Preview (free)** | 1000K | 64K | Vision support |
-*Last updated: October 14, 2026*
+*Last updated: October 15, 2026*
 ---
 
 ## Updating Models
