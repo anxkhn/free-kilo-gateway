@@ -83,6 +83,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | Model | Context | Output | Features |
 |-------|---------|--------|----------|
 | **Auto Free** | 256K | 32K | Text only |
+| **MiniMax: MiniMax M3.1 Flash (free)** | 1000K | 524K | Vision support |
 | **NVIDIA: Nemotron 3.5 Super VL (free)** | 1000K | 131K | Vision support |
 | **Reflection: Beam 1.0 (free)** | 1048K | 131K | Text only |
 | **Stealth: Glyph Cluster (free)** | 256K | 256K | Text only |
@@ -99,7 +100,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **NVIDIA: Nemotron 3 Nano Omni (free)** | 256K | 65K | Vision support |
 | **NVIDIA: Nemotron 3 Super (free)** | 262K | 235K | Text only |
 | **OpenRouter Free Models Router** | 200K | - | Vision support |
-*Last updated: October 19, 2026*
+*Last updated: October 20, 2026*
 ---
 
 ## Updating Models
