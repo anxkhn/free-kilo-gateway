@@ -98,7 +98,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **NVIDIA: Nemotron 3 Ultra (free)** | 1000K | 65K | Text only |
 | **NVIDIA: Nemotron 3 Nano Omni (free)** | 256K | 65K | Vision support |
 | **OpenRouter Free Models Router** | 200K | - | Vision support |
-*Last updated: October 28, 2026*
+*Last updated: October 29, 2026*
 ---
 
 ## Updating Models
