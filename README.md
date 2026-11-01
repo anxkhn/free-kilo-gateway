@@ -91,15 +91,13 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **Dots Studio: Dots3-Note Preview (free)** | 512K | 460K | Vision support |
 | **LiquidAI: LFM2.5-2.6B (free)** | 65K | 8K | Text only |
 | **NVIDIA: Nemotron 3.5 Lightning (free)** | 1000K | 65K | Text only |
-| **Poolside: Laguna S 2.1 (free)** | 262K | 32K | Text only |
-| **Poolside: Laguna XS 2.1 (free)** | 262K | 32K | Text only |
 | **Cohere: North Mini Code (free)** | 256K | 64K | Text only |
 | **NVIDIA: Nemotron 3.5 Content Safety (free)** | 128K | 8K | Vision support |
 | **NVIDIA: Nemotron 3 Ultra (free)** | 1000K | 65K | Text only |
 | **NVIDIA: Nemotron 3 Nano Omni (free)** | 256K | 65K | Vision support |
 | **OpenRouter Free Models Router** | 200K | - | Vision support |
 | **inclusionAI: Ling 3.1 Flash 1019 (free)** | 1000K | 262K | Text only |
-*Last updated: October 31, 2026*
+*Last updated: November 1, 2026*
 ---
 
 ## Updating Models
