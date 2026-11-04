@@ -86,21 +86,13 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **NVIDIA: Nemotron 3.5 Super VL (free)** | 1000K | 131K | Vision support |
 | **Reflection: Beam 1.0 (free)** | 1048K | 131K | Text only |
 | **Stealth: Glyph Cluster (free)** | 256K | 256K | Text only |
-| **Recursive: Flint (free)** | 262K | 235K | Text only |
-| **XingChen: Xing4.0 29B A4B (free)** | 262K | 235K | Text only |
 | **Dots Studio: Dots3-Note Preview (free)** | 512K | 460K | Vision support |
-| **LiquidAI: LFM2.5-2.6B (free)** | 65K | 8K | Text only |
 | **NVIDIA: Nemotron 3.5 Lightning (free)** | 1000K | 65K | Text only |
-| **Thinking Machines: Inkling Small (free)** | 1048K | 262K | Vision support |
-| **Thinking Machines: Inkling (free)** | 1048K | 262K | Vision support |
 | **Cohere: North Mini Code (free)** | 256K | 64K | Text only |
-| **NVIDIA: Nemotron 3.5 Content Safety (free)** | 128K | 8K | Vision support |
 | **NVIDIA: Nemotron 3 Ultra (free)** | 1000K | 65K | Text only |
 | **NVIDIA: Nemotron 3 Nano Omni (free)** | 256K | 65K | Vision support |
-| **Google: Gemma 4 31B (free)** | 262K | 32K | Vision support |
 | **OpenRouter Free Models Router** | 200K | - | Vision support |
-| **inclusionAI: Ling 3.1 Flash 1019 (free)** | 1000K | 262K | Text only |
-*Last updated: November 3, 2026*
+*Last updated: November 4, 2026*
 ---
 
 ## Updating Models
