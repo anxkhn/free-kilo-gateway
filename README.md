@@ -84,10 +84,10 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 |-------|---------|--------|----------|
 | **Auto Free** | 256K | 32K | Text only |
 | **NVIDIA: Nemotron 3.5 Super VL (free)** | 1000K | 131K | Vision support |
+| **inclusionAI: Ling 3.2 Flash (free)** | 1048K | 262K | Vision support |
 | **Baidu: ERNIE-5.5-Flash-Preview (free)** | 1024K | 921K | Text only |
 | **LiquidAI: LFM3-1.7B (free)** | 262K | 8K | Text only |
 | **Particle AI: Particle-1 (free)** | 1048K | 131K | Vision support |
-| **Apodex: Apodex 1.1 Mini (free)** | 262K | 235K | Text only |
 | **Dots Studio: Dots3-Note Preview (free)** | 512K | 460K | Vision support |
 | **NVIDIA: Nemotron 3.5 Lightning (free)** | 1000K | 65K | Text only |
 | **Cohere: North Mini Code (free)** | 256K | 64K | Text only |
@@ -95,7 +95,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **NVIDIA: Nemotron 3 Nano Omni (free)** | 256K | 65K | Vision support |
 | **OpenRouter Free Models Router** | 200K | - | Vision support |
 | **Reflection: Beam 1.0 (Free)** | 1048K | 131K | Text only |
-*Last updated: November 13, 2026*
+*Last updated: November 14, 2026*
 ---
 
 ## Updating Models
