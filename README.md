@@ -95,7 +95,7 @@ cat ~/.config/opencode/opencode.json | grep -A 50 "kilogateway"
 | **NVIDIA: Nemotron 3 Nano Omni (free)** | 256K | 65K | Vision support |
 | **OpenRouter Free Models Router** | 200K | - | Vision support |
 | **Reflection: Beam 1.0 (Free)** | 1048K | 131K | Text only |
-*Last updated: November 15, 2026*
+*Last updated: November 16, 2026*
 ---
 
 ## Updating Models
